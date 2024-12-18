@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Temporizador</string>
+    <string name="tempo_em_minutos">Tempo em minutos</string>
+    <string name="iniciar">iniciar</string>
+</resources>
